@@ -1,5 +1,7 @@
 Atividade Prática - Google OAuth2 + RBAC
 Disciplina: DCC075 — Segurança Computacional
+Aluno: Daniel Alves Thielmann
+Matrícula: 202165020AB
 Objetivo: Implementar um sistema com autenticação via Google OAuth2 e controle de acesso baseado em papéis (RBAC).
 Tecnologias Utilizadas
 - Node.js
@@ -7,11 +9,14 @@ Tecnologias Utilizadas
 - Google Auth Library
 - Dotenv
 - HTML + CSS
+
+OBS: Não usei o bun.sh
+
 Como Executar o Projeto
 
 1. Clone o repositório:
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/Daniel-Thielmann/Python-SecurityComp
+   cd Python-SecurityComp/GoogleOAuthSolution
 
 2. Instale as dependências:
    npm install
