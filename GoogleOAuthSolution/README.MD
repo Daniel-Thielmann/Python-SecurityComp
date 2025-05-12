@@ -4,6 +4,7 @@ Aluno: Daniel Alves Thielmann
 Matrícula: 202165020AB
 Objetivo: Implementar um sistema com autenticação via Google OAuth2 e controle de acesso baseado em papéis (RBAC).
 Tecnologias Utilizadas
+
 - Node.js
 - Express
 - Google Auth Library
@@ -39,25 +40,25 @@ Após o login, o sistema analisa o email do usuário autenticado para definir o 
 - Outros → viewer
 
 Permissões por Papel
-Papel	Permissões
-admin	Pode criar, editar e excluir projetos.
-manager	Pode criar e editar projetos.
-viewer	Pode apenas visualizar os projetos.
+Papel Permissões
+admin Pode criar, editar e excluir projetos.
+manager Pode criar e editar projetos.
+viewer Pode apenas visualizar os projetos.
 Estrutura de Pastas do Projeto
 
 GoogleOAuthSolution/
 ├── .env
 ├── package.json
 ├── public/
-│   ├── index.html
-│   └── style.css
+│ ├── index.html
+│ └── style.css
 ├── src/
-│   └── index.js
+│ └── index.js
 ├── screenshots/
-│   ├── 1.tela-de-login.png
-│   ├── 2.oauth2.png
-│   ├── 3.tela-de-welcome-viewer.png
-│   └── 4.tela-de-welcome-manager.png
+│ ├── 1.tela-de-login.png
+│ ├── 2.oauth2.png
+│ ├── 3.tela-de-welcome-viewer.png
+│ └── 4.tela-de-welcome-manager.png
 
 Observações Finais
 
