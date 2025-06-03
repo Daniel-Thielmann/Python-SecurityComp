@@ -1,5 +1,11 @@
 # Cifra de Feistel com 16 Rodadas (Python)
 
+**Disciplina:** DCC075 — Segurança Computacional  
+**Aluno:** Daniel Alves Thielmann  
+**Matrícula:** 202165020AB
+
+## Objetivo
+
 Este projeto implementa uma cifra de Feistel simples com:
 
 - 16 rodadas

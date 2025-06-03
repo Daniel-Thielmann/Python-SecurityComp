@@ -1,6 +1,10 @@
 # Cifra de César e Criptoanálise por Frequência
 
-## Descrição
+**Disciplina:** DCC075 — Segurança Computacional  
+**Aluno:** Daniel Alves Thielmann  
+**Matrícula:** 202165020AB
+
+## Objetivo
 
 Este projeto implementa:
 
